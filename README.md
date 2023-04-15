@@ -1,3 +1,3 @@
-This is the repository for whici will provides all the information and data related to AutoTAB.
+This is the repository for AutoTAB, in which we will provides all the information, data and codes.
 
 Will be Updates Soon!!
